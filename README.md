@@ -79,8 +79,7 @@ This project uses the OpenWeatherMap API to fetch weather data.
 
 - Sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api)
 - Free tier includes 1,000 API calls per day
-- API activation may take up to 2 hours after registration
-
+  
 ### Endpoints Used
 
 - Current Weather: `https://api.openweathermap.org/data/2.5/weather`
