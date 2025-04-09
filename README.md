@@ -123,7 +123,7 @@ src/
 The application is deployed on Vercel and can be accessed at [Live URL](https://weather-app-one-brown-76.vercel.app/).
 
 ## Final Video
-<video src="[path/to/video.mp4](https://ik.imagekit.io/Eattendancehostel23/Screen%20Recording%202025-04-09%20222727(1).mp4?updatedAt=1744219941296)" width="320" height="240" controls></video>
+<video src="https://ik.imagekit.io/Eattendancehostel23/Screen%20Recording%202025-04-09%20222727(1).mp4?updatedAt=1744219941296" width="320" height="240" controls></video>
 
 
 
