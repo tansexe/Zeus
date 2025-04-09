@@ -122,6 +122,9 @@ src/
 
 The application is deployed on Vercel and can be accessed at [Live URL](https://weather-app-one-brown-76.vercel.app/).
 
+## Final Video
+<iframe width="560" height="315" src="https://imagekit.io/player/embed/Eattendancehostel23/Screen%20Recording%202025-04-09%20222727(1).mp4?updatedAt=1744219941296&thumbnail=https%3A%2F%2Fik.imagekit.io%2FEattendancehostel23%2FScreen%2520Recording%25202025-04-09%2520222727%281%29.mp4%2Fik-thumbnail.jpg%3FupdatedAt%3D1744219941296&updatedAt=1744219941296" title="ImageKit video player" frameBorder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"> </iframe>
+
 ## Future Enhancements
 
 - Dark/Light theme toggle
