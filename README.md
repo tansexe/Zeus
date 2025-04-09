@@ -121,7 +121,7 @@ src/
 
 ## Deployment
 
-The application is deployed on Vercel and can be accessed at [[Live URL](https://weather-app-one-brown-76.vercel.app/)].
+The application is deployed on Vercel and can be accessed at [Live URL](https://weather-app-one-brown-76.vercel.app/).
 
 ## Future Enhancements
 
