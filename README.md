@@ -123,12 +123,10 @@ src/
 The application is deployed on Vercel and can be accessed at [Live URL](https://weather-app-one-brown-76.vercel.app/).
 
 ## Final Video
-<video src="https://ik.imagekit.io/Eattendancehostel23/Screen%20Recording%202025-04-09%20222727(1).mp4?updatedAt=1744219941296" width="320" height="240" controls></video>
 
-
+https://github.com/user-attachments/assets/f610017c-174d-498d-8de0-2eb39c787292
 
 ## Future Enhancements
-
 - Dark/Light theme toggle
 - 5-day weather forecast
 - Weather maps integration
