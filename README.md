@@ -44,7 +44,7 @@ A modern, responsive weather application built with React that provides real-tim
 
 ```bash
 git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+cd frontend
 ```
 
 2. Install dependencies:
@@ -79,8 +79,7 @@ This project uses the OpenWeatherMap API to fetch weather data.
 
 - Sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api)
 - Free tier includes 1,000 API calls per day
-- API activation may take up to 2 hours after registration
-
+  
 ### Endpoints Used
 
 - Current Weather: `https://api.openweathermap.org/data/2.5/weather`
@@ -121,10 +120,13 @@ src/
 
 ## Deployment
 
-The application is deployed on [Deployment Platform] and can be accessed at [Live URL].
+The application is deployed on Vercel and can be accessed at [Live URL](https://weather-app-one-brown-76.vercel.app/).
+
+## Final Video
+
+https://github.com/user-attachments/assets/f610017c-174d-498d-8de0-2eb39c787292
 
 ## Future Enhancements
-
 - Dark/Light theme toggle
 - 5-day weather forecast
 - Weather maps integration
