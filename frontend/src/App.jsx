@@ -34,7 +34,7 @@ function App() {
     }
   };
 
-  // Update search history
+  // Updating search history
   const updateSearchHistory = (cityName) => {
     const updatedHistory = [
       cityName,
@@ -45,7 +45,7 @@ function App() {
     localStorage.setItem("searchHistory", JSON.stringify(updatedHistory));
   };
 
-  // Handle refresh
+  // refresh
   const handleRefresh = () => {
     if (weatherData) {
       handleFetchWeather(weatherData.name);
