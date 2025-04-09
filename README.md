@@ -44,7 +44,7 @@ A modern, responsive weather application built with React that provides real-tim
 
 ```bash
 git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+cd frontend
 ```
 
 2. Install dependencies:
